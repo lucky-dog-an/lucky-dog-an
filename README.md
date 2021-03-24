@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @lucky-dog-an
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning python
-- 📫 How to reach me 2080483820@qq.com
